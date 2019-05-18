@@ -30,6 +30,7 @@ public class AfterJava8Example2 {
             return currency;
         }
 
+
         public void setCurrency(Currency currency) {
             this.currency = currency;
         }
